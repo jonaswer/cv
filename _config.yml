@@ -53,8 +53,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: NFDI4ing
-        link: https://nfdi4ing.de/
+        title: ZUKIPRO
+        link: https://zukipro.de/
         # link_text: Project Website
         #additional_links:
         #  - title:  Webpage
@@ -69,8 +69,8 @@ content:
           ZUKIPRO Future Center is specifically aimed at transforming small and medium-sized enterprises in Hessen, Germany. Seven strong partners are pursuing the goal of bringing digitalization and human-centered AI specifically into use in Hessian production and craft businesses. Our free services include the pillars of informing, consulting, and training, and are aimed at both employers and employees.
       
       - layout: top-middle
-        title: ZUKIPRO
-        link: https://zukipro.de/
+        title: NFDI4ing
+        link: https://nfdi4ing.de/
         # link_text: Project Website
         #additional_links:
         #  - title:  Webpage
