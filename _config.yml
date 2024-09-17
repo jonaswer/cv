@@ -146,11 +146,11 @@ content:
       - layout: left
         title: Leadership Competence Review
         sub_title: RWTH Doctoral Academy
-        caption: Issued: August 2024
+        caption: Issued on August 2024
       - layout: left
         title: Working in International Teams
         sub_title: RWTH Doctoral Academy
-        caption: Issued: April 2024
+        caption: Issued on April 2024
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
