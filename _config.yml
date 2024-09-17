@@ -68,9 +68,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           Project description. NFDI4Ing represents the German engineering research landscape. The consortium brings together institutions and individuals from all areas of the engineering landscape, each contributing their specific expertise, experience, and contacts to the consortium’s work program. NFDI4Ing thus enables the close collaboration of engineering scientists, service providers, and users to work towards the common goal of realizing the FAIR principles of scientific data management in the engineering sciences.
 
- - title: Experience
-  layout: list
-  content:
+ -  title: Experience
+    layout: list
+    content:
     - layout: left
       title: Laboratory for Machine Tools and Production Engineering (WZL), RWTH Aachen University
       sub_title: Consultant and Scientific Researcher
