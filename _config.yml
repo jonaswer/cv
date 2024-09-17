@@ -45,7 +45,7 @@ about_content: | # this will include new lines to allow paragraphs
  Hi, I'm Jonas!
 
  As a Consultant and Scientific Researcher, I specialize in optimizing data management and developing machine learning applications for the manufacturing industry. 
- My expertise spans industrial consultancy, service development, and leadership in publicly funded projects that produce open-access research outputs. 
+ My expertise spans industrial consultancy, service development, and research in publicly funded projects that produce open-access research outputs. 
  For more insight into my research background, my publications can be found on [ResearchGate](https://www.researchgate.net/profile/Jonas-Werheid-2).
 
 content:
@@ -111,7 +111,7 @@ content:
       quote: >
         Development of simulation models for advanced plastic-metal bonding techniques in automotive assembly.
       description: | 
-        I contributed to research on laser-based plastic-metal bonding techniques used in automotive manufacturing. My primary task was developing simulation models that support process optimization and enhanced material bonding quality for laser-based plastic metal joinings.
+        I contributed to research on laser-based plastic-metal bonding techniques used in automotive manufacturing. My primary task was developing simulation models that support process optimization and enhanced material bonding quality.
 
     - layout: left
       title: Robert Bosch GmbH
@@ -120,7 +120,7 @@ content:
       quote: >
         Implementing computer vision solutions to improve quality control in electronics manufacturing.
       description: | 
-        During this internship, I worked on computer vision techniques for the automated inspection of printed circuit boards in the electronics manufacturing process. This improved the quality and reliability of electronic components through advanced image processing methods.
+        During this internship, I worked on computer vision techniques for the automated inspection of printed circuit boards in the electronics assembly process. This automated the quality assurance of electronic component assembly processes through advanced image processing methods.
 
     - layout: left
       title: Laboratory for Machine Tools and Production Engineering (WZL), RWTH Aachen University
@@ -138,18 +138,18 @@ content:
       quote: >
         Supporting production processes in the iron casting of automotive engine components.
       description: | 
-        As an intern, I contributed to the iron casting production process used for automotive engines. I assisted with the coordination of production workflows and performed process optimizations to enhance the overall quality of the cast parts.
+        As an intern, I contributed to the iron casting production process used for automotive engines. I assisted with the coordination of production workflows and learned basic concepts in manufacturing processes.
 
 
   - title: Education
     layout: list
     content:
     - layout: left
-      title: RWTH Aachen University
+      title: Laboratory for Machine Tools and Production Engineering (WZL) of RWTH Aachen University
       caption: 2023 - 2027 (expected)
       sub_title: Doctor of Philosophy (PhD), Dr.-Ing (PhD) - Mechanical Engineering
       quote: >
-        RWTH Aachen University is one of Europe’s leading technical universities, renowned for its strong focus on engineering and research in industrial technologies.
+        WZL at RWTH University is one of Europe’s leading research production labs, renowned for its strong focus on applied manufacturing research through advanced technologies.
       description: | 
         Pursuing a PhD with a focus on computer vision techniques for manufacturing processes. My research aims to develop innovative solutions for industrial challenges through the integration of advanced GenAI technologies.
 
@@ -188,12 +188,12 @@ content:
         title: Leadership Competence Review
         sub_title: RWTH Doctoral Academy
         caption: Issued on August 2024
-        description: This workshop focuses on personal reflection on leadership behavior, using feedback as a key leadership tool through case studies from real-world leadership scenarios. Participants will learn how to develop and refine their leadership profile, implement decisions with confidence, engage and influence others effectively, assert themselves while maintaining strong relationships, and enrich their leadership approach with constructive feedback. Additionally, the workshop will help participants recognize strengths and weaknesses in delegating and monitoring tasks, enhancing their overall leadership capabilities.
+        description: This workshop emphasizes personal reflection on leadership behavior, using feedback as a key tool through real-world case studies. Participants will refine their leadership profile, make confident decisions, influence others effectively, assert themselves while maintaining relationships, and incorporate constructive feedback. The workshop also helps identify strengths and weaknesses in delegating and monitoring tasks to enhance leadership skills.
       - layout: left
         title: Working in International Teams
         sub_title: RWTH Doctoral Academy
         caption: Issued on April 2024
-        description: This course provides an introduction to the German higher education landscape, focusing on the challenges faced by both international and German researchers. Participants will learn to assess cultural factors in a professional context and adapt their behavior accordingly. The course also emphasizes the importance of active relationship management with various stakeholders in the academic sector. Additionally, it fosters an understanding of diverse team backgrounds and highlights the benefits that arise from this diversity in a collaborative environment.
+        description: This course introduces the German higher education landscape, focusing on challenges for both international and German researchers. It covers assessing cultural factors, adapting behavior, managing academic relationships, and leveraging the benefits of diverse team backgrounds for collaboration.
 
   - title: Other Experiences
     layout: list
