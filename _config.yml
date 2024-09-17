@@ -24,10 +24,10 @@ linkedin_username: https://www.linkedin.com/in/jonas-w-12ab05195/
 # researchgate_username: https://www.researchgate.net/profile/Jonas-Werheid-2
 
 # Additional icon links
-additional_links:
-- title: ResearchGate
-  icon: images/RG.png
-  url: https://www.researchgate.net/profile/Jonas-Werheid-2
+# additional_links:
+# - title: ResearchGate
+#  icon: images/RG.png
+#  url: https://www.researchgate.net/profile/Jonas-Werheid-2
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,7 +46,7 @@ about_content: | # this will include new lines to allow paragraphs
 
  As a Consultant and Scientific Researcher, I specialize in optimizing data management and developing machine learning applications for the manufacturing industry. 
  My expertise spans industrial consultancy, service development, and leadership in publicly funded projects that produce open-access research outputs. 
- For more insight into my research background, you can find my publications on ResearchGate (https://www.researchgate.net/profile/Jonas-Werheid-2).
+ For more insight into my research background, my publications can be find on [ResearchGate](https://www.researchgate.net/profile/Jonas-Werheid-2).
 
 content:
   - title: Projects # Title for the section
@@ -66,8 +66,23 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Project description. NFDI4Ing represents the German engineering research landscape. The consortium brings together institutions and individuals from all areas of the engineering landscape, each contributing their specific expertise, experience, and contacts to the consortium’s work program. NFDI4Ing thus enables the close collaboration of engineering scientists, service providers, and users to work towards the common goal of realizing the FAIR principles of scientific data management in the engineering sciences.
-
+          ZUKIPRO Future Center is specifically aimed at transforming small and medium-sized enterprises in Hessen, Germany. Seven strong partners are pursuing the goal of bringing digitalization and human-centered AI specifically into use in Hessian production and craft businesses. Our free services include the pillars of informing, consulting, and training, and are aimed at both employers and employees.
+      
+      - layout: top-middle
+        title: ZUKIPRO
+        link: https://zukipro.de/
+        # link_text: Project Website
+        #additional_links:
+        #  - title:  Webpage
+            #icon: fab fa-github
+        #    url: https://nfdi4ing.de/
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          NFDI4Ing represents the German engineering research landscape. The consortium brings together institutions and individuals from all areas of the engineering landscape, each contributing their specific expertise, experience, and contacts to the consortium’s work program. NFDI4Ing thus enables the close collaboration of engineering scientists, service providers, and users to work towards the common goal of realizing the FAIR principles of scientific data management in the engineering sciences.
   - title: Experience
     layout: list
     content:
@@ -78,7 +93,7 @@ content:
       quote: >
         Management and participation in industrial and publicly funded projects, acquisition activities, university teaching, and supervision of theses.
       description: | 
-        I focus on sustainable data management and computer vision for manufacturing industries. This role includes management of industrial projects, research, and academic responsibilities such as thesis supervision and publishing scientific articles. I also engage in acquisition activities for research funding.
+        My work focus on sustainable data management and computer vision for manufacturing industries. My role includes management of industrial projects, research, and academic responsibilities such as thesis supervision and publishing scientific articles. I also engage in acquisition activities for research funding.
 
     - layout: left
       title: Laboratory for Machine Tools and Production Engineering (WZL), RWTH Aachen University
@@ -96,7 +111,7 @@ content:
       quote: >
         Development of simulation models for advanced plastic-metal bonding techniques in automotive assembly.
       description: | 
-        I contributed to research on laser-based plastic-metal bonding techniques used in automotive manufacturing. My primary task was developing simulation models that support process optimization and enhanced material bonding quality.
+        I contributed to research on laser-based plastic-metal bonding techniques used in automotive manufacturing. My primary task was developing simulation models that support process optimization and enhanced material bonding quality for laser-based plastic metal joinings.
 
     - layout: left
       title: Robert Bosch GmbH
@@ -136,16 +151,16 @@ content:
       quote: >
         RWTH Aachen University is one of Europe’s leading technical universities, renowned for its strong focus on engineering and research in industrial technologies.
       description: | 
-        Pursuing a PhD with a focus on sustainable data management and computer vision techniques for manufacturing processes. My research aims to develop innovative solutions for industrial challenges through the integration of advanced technologies.
+        Pursuing a PhD with a focus on computer vision techniques for manufacturing processes. My research aims to develop innovative solutions for industrial challenges through the integration of advanced GenAI technologies.
 
     - layout: left
       title: RWTH Aachen University
       caption: 2020 - 2022
       sub_title: Master of Science (MS), Industrial Engineering - Production Technology & Operations Research
       quote: >
-        A leading program that bridges industrial engineering with advanced operations research techniques to optimize production processes.
+        A program that bridges industrial engineering with advanced operations research techniques to optimize production processes.
       description: | 
-        My Master's studies were focused on enhancing production technologies and improving operational efficiency. I also gained expertise in solving complex industrial problems using operations research methods.
+        My Master's studies were focused on enhancing production technologies and improving operational efficiency with mathematical optimization and machine learning algorithms. 
 
     - layout: left
       title: Universidad de Navarra
@@ -163,7 +178,7 @@ content:
       quote: >
         RWTH Aachen is known for combining engineering expertise with management skills, creating well-rounded graduates ready to tackle modern industrial challenges.
       description: | 
-        My Bachelor's degree focused on the intersection of mechanical engineering and management, where I developed foundational knowledge in production systems, mechanical engineering principles, and business management. This laid the groundwork for my future research and professional endeavors.
+        My Bachelor's degree focused on the intersection of mechanical engineering and management, where I developed foundational knowledge in production systems, mechanical engineering principles, and business management. This laid the groundwork for my professional endeavors.
 
 
   - title: Certifications
@@ -173,11 +188,12 @@ content:
         title: Leadership Competence Review
         sub_title: RWTH Doctoral Academy
         caption: Issued on August 2024
-        description: This course focused on leadership 
+        description: This workshop focuses on personal reflection on leadership behavior, using feedback as a key leadership tool through case studies from real-world leadership scenarios. Participants will learn how to develop and refine their leadership profile, implement decisions with confidence, engage and influence others effectively, assert themselves while maintaining strong relationships, and enrich their leadership approach with constructive feedback. Additionally, the workshop will help participants recognize strengths and weaknesses in delegating and monitoring tasks, enhancing their overall leadership capabilities.
       - layout: left
         title: Working in International Teams
         sub_title: RWTH Doctoral Academy
         caption: Issued on April 2024
+        description: This course provides an introduction to the German higher education landscape, focusing on the challenges faced by both international and German researchers. Participants will learn to assess cultural factors in a professional context and adapt their behavior accordingly. The course also emphasizes the importance of active relationship management with various stakeholders in the academic sector. Additionally, it fosters an understanding of diverse team backgrounds and highlights the benefits that arise from this diversity in a collaborative environment.
 
   - title: Other Experiences
     layout: list
