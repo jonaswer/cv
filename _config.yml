@@ -21,13 +21,13 @@ linkedin_username: https://www.linkedin.com/in/jonas-w-12ab05195/
 # pinterest_username: jekyll
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
-researchgate_username: https://www.researchgate.net/profile/Jonas-Werheid-2
+# researchgate_username: https://www.researchgate.net/profile/Jonas-Werheid-2
 
 # Additional icon links
-#additional_links:
-#- title: itsgoingto.be
+additional_links:
+- title: ResearchGate
 #  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+  url: https://www.researchgate.net/profile/Jonas-Werheid-2
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -132,7 +132,7 @@ content:
     - layout: left
       title: RWTH Aachen University
       caption: 2023 - 2027 (expected)
-      sub_title: Doctor of Philosophy (PhD), Dr.-Ing (PhD): Mechanical Engineering
+      sub_title: Doctor of Philosophy (PhD), Dr.-Ing (PhD) - Mechanical Engineering
       quote: >
         RWTH Aachen University is one of Europe’s leading technical universities, renowned for its strong focus on engineering and research in industrial technologies.
       description: | 
@@ -141,7 +141,7 @@ content:
     - layout: left
       title: RWTH Aachen University
       caption: 2020 - 2022
-      sub_title: Master of Science (MS), Industrial Engineering: Production Technology & Operations Research
+      sub_title: Master of Science (MS), Industrial Engineering - Production Technology & Operations Research
       quote: >
         A leading program that bridges industrial engineering with advanced operations research techniques to optimize production processes.
       description: | 
@@ -159,7 +159,7 @@ content:
     - layout: left
       title: RWTH Aachen University
       caption: 2017 - 2020
-      sub_title: Bachelor of Science (BS), Industrial Engineering: Mechanical Engineering & Management
+      sub_title: Bachelor of Science (BS), Industrial Engineering - Mechanical Engineering & Management
       quote: >
         RWTH Aachen is known for combining engineering expertise with management skills, creating well-rounded graduates ready to tackle modern industrial challenges.
       description: | 
@@ -173,6 +173,7 @@ content:
         title: Leadership Competence Review
         sub_title: RWTH Doctoral Academy
         caption: Issued on August 2024
+        description: This course focused on leadership 
       - layout: left
         title: Working in International Teams
         sub_title: RWTH Doctoral Academy
