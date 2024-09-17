@@ -8,7 +8,7 @@ email: jonas.werheid@rwth-aachen.de
 contact: https://www.linkedin.com/in/jonas-w-12ab05195/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 github_username:  jonaswer
@@ -26,7 +26,7 @@ linkedin_username: https://www.linkedin.com/in/jonas-w-12ab05195/
 # Additional icon links
 additional_links:
 - title: ResearchGate
-#  icon: fas fa-globe
+  icon: images/RG.png
   url: https://www.researchgate.net/profile/Jonas-Werheid-2
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -46,7 +46,7 @@ about_content: | # this will include new lines to allow paragraphs
 
  As a Consultant and Scientific Researcher, I specialize in optimizing data management and developing machine learning applications for the manufacturing industry. 
  My expertise spans industrial consultancy, service development, and leadership in publicly funded projects that produce open-access research outputs. 
- For more insight into my research background, you can find my publications on ResearchGate.
+ For more insight into my research background, you can find my publications on ResearchGate (https://www.researchgate.net/profile/Jonas-Werheid-2).
 
 content:
   - title: Projects # Title for the section
@@ -183,12 +183,7 @@ content:
     layout: list
     content:
     - layout: left
-      title: Research Contributions
-      description: |
-        My research focuses on sustainable data management and machine learning methods for the manufacturing industry. All publications are listed on [ResearchGate](https://www.researchgate.net/profile/Jonas-Werheid-2).
-
-    - layout: left
-      title: Personal Programming Projects
+      title: A few Personal Programming Projects
       description: |
         1. [synographs.herokuapp.com](https://synographs.herokuapp.com): Webpage for searching synonym chains (graph-based combinatorial optimization).
         2. [computational-ego.herokuapp.com](https://computational-ego.herokuapp.com): Webpage for a psychological free-field test (Deep Learning).
